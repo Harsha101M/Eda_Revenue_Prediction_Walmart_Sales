@@ -1,5 +1,4 @@
 # Walmart Sales Analysis and Prediction
-
 A data science project analyzing Walmart sales data to understand trends and predict future revenue. The project combines exploratory data analysis (EDA) with machine learning to provide insights and forecasting.
 
 ## Project Structure
